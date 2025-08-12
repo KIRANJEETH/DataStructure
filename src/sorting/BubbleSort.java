@@ -1,7 +1,7 @@
 package sorting;
 public class BubbleSort {
     public static void main(String[] args) {
-        int[] arr = {5, 24, 4, 27, 12, 23, 10, 15};
+        int[] arr = {5, 24, 4, 27, 12, 23, 10, 15,8,20};
 
         for (int i = 0; i < arr.length - 1; i++) {
             for (int j = 0; j < arr.length - 1 - i; j++) {
